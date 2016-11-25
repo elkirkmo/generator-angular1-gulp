@@ -58,7 +58,7 @@ npm install -g yo
 
 ##### Install `Angular1-Gulp-Generator`:
 ```
-npm install -g generator-fountain-angular1
+npm install -g Angular1-Gulp-Generator
 ```
 
 
@@ -71,7 +71,7 @@ mkdir my-new-project && cd my-new-project
 
 ##### Run `yo Angular1-Gulp`, and select desired technologies:
 ```
-yo fountain-angular1
+yo Angular1-Gulp
 ```
 #### Use NPM scripts
 
@@ -107,7 +107,7 @@ Each generator has 2 options:
 **Example:**
 
 ```
-yo fountain-angular1:component --name myComponent --dir components/game
+yo Angular1-Gulp:component --name myComponent --dir components/game
 ```
 
 ### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
