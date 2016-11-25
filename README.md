@@ -20,7 +20,7 @@
 
 This generator is a sub-generator of the the Yeoman Fountain generator for webapps [generator-fountain-webapp](https://github.com/FountainJS/generator-fountain-webapp).
 
-## Generator Fountain Angular 1 structure
+## Generator Angular 1 structure
 
 To take profit of the best of the Yeoman infrastructure, we heavily relies on the composability natures of the generators.
 
@@ -56,7 +56,7 @@ node --version && npm --version
 npm install -g yo
 ```
 
-##### Install `generator-fountain-angular1`:
+##### Install `Angular1-Gulp-Generator`:
 ```
 npm install -g generator-fountain-angular1
 ```
@@ -69,7 +69,7 @@ npm install -g generator-fountain-angular1
 mkdir my-new-project && cd my-new-project
 ```
 
-##### Run `yo fountain-angular1`, and select desired technologies:
+##### Run `yo Angular1-Gulp`, and select desired technologies:
 ```
 yo fountain-angular1
 ```
