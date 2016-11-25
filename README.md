@@ -56,9 +56,9 @@ node --version && npm --version
 npm install -g yo
 ```
 
-##### Install `Angular1-Gulp-Generator`:
+##### Install `Generator-Angular1-Gulp`:
 ```
-npm install -g Angular1-Gulp-Generator
+npm install -g Generator-Angular1-Gulp
 ```
 
 
