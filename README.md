@@ -58,7 +58,7 @@ npm install -g yo
 
 ##### Install `Generator-Angular1-Gulp`:
 ```
-npm install -g Generator-Angular1-Gulp
+npm install -g generator-angular1-gulp
 ```
 
 
@@ -69,7 +69,7 @@ npm install -g Generator-Angular1-Gulp
 mkdir my-new-project && cd my-new-project
 ```
 
-##### Run `yo Angular1-Gulp`, and select desired technologies:
+##### Run `yo angular1-gulp`, and select desired technologies:
 ```
 yo Angular1-Gulp
 ```
