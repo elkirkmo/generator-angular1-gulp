@@ -1,6 +1,6 @@
 {
   "name": "generator-angular1-gulp",
-  "version": "1.0.0-rc1",
+  "version": "0.1",
   "repository": "rkori215/generator-angular1-gulp",
   "main": "index.js",
   "keywords": [
