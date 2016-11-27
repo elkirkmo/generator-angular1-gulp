@@ -58,7 +58,7 @@ npm install -g yo
 
 ##### Install `Generator-Angular1-Gulp`:
 ```
-$ npm install -g git+https://gitlab.aamc.org/ngaamc/generator-angular1-gulp.git
+npm install -g https://gitlab.com/passiontech/generator-angular1-gulp.git
 ```
 
 
