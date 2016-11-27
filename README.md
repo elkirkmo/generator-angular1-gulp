@@ -58,7 +58,7 @@ npm install -g yo
 
 ##### Install `Generator-Angular1-Gulp`:
 ```
-npm install -g generator-angular1-gulp
+$ npm install -g git+https://gitlab.aamc.org/ngaamc/generator-angular1-gulp.git
 ```
 
 
@@ -109,11 +109,3 @@ Each generator has 2 options:
 ```
 yo Angular1-Gulp:component --name myComponent --dir components/game
 ```
-
-### [Start development](http://fountainjs.io/doc/usage/#use-npm-scripts)
-
-
-## [Changelog](https://github.com/FountainJS/generator-fountain-angular1/releases)
-
-
-## [Contributing](http://fountainjs.io/doc/contributing)
