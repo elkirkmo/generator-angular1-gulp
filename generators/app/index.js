@@ -46,7 +46,7 @@ module.exports = fountain.Base.extend({
     this.config.set('props', this.props);
     this.mergeJson('package.json', {
       dependencies: {
-        angular: '^1.5.0'
+        angular: '^1.5.8'
       },
       devDependencies: {
         'angular-mocks': '^1.5.0',
