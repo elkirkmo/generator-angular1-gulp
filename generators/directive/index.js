@@ -14,7 +14,7 @@ module.exports = fountain.Base.extend({
       name,
       typings
     };
-    this.copyTemplate(`src/app/directive.js`, `${path}/${name}.js`, props);
-    this.copyTemplate(`src/app/directive.spec.js`, `${path}/${name}.spec.js`, props);
+    this.copyTemplate(`src/app/directives/directive.js`, `${path}/${name}/${name}.js`, props);
+    this.copyTemplate(`src/app/directives/directive.spec.js`, `${path}/${name}/${name}.spec.js`, props);
   }
 });
